@@ -1,0 +1,847 @@
+--------------------------------------------------
+-- Xero RemoteSpy Captured Logs
+--------------------------------------------------
+-- Saved Time: 2026-09-13 23:06:44
+-- Total Calls: 70
+--------------------------------------------------
+
+[23:04:39]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 1
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:40]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 2
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:46]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 3
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:46]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 4
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:46]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 5
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:48]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 6
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:48]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 7
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:48]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 8
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:48]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 9
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:49]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 10
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:49]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 11
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:49]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 12
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:50]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 13
+
+local args = {
+ "useGear",
+ {["targetPosition"] = {["Y"] = -7.499996185302734, ["X"] = 3.9054603576660156, ["Z"] = -42.670387268066406}, ["gearId"] = "BOMB"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:52]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 14
+
+local args = {
+ "useGear",
+ {["targetPosition"] = {["Y"] = -7.499996185302734, ["X"] = 30.982799530029297, ["Z"] = -13.435007095336914}, ["gearId"] = "ADVANCED_BOMB"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:52]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 15
+
+local args = {
+ "useGear",
+ {["targetPosition"] = {["Y"] = -7.499996185302734, ["X"] = 32.61592102050781, ["Z"] = -12.463420867919922}, ["gearId"] = "ADVANCED_BOMB"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:04:56]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 16
+
+local args = {
+ "useGear",
+ {["targetPosition"] = {["Y"] = -3.9308767318725586, ["X"] = 32.99993896484375, ["Z"] = -14.323057174682617}, ["gearId"] = "ROCKET_LAUNCHER"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:04]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 17
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:04]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 18
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:05]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 19
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:05]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 20
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:13]
+Instance: Interactables (RemoteEvent)
+Path: game:GetService("ReplicatedStorage").endpoints.Interactables
+Status: Allowed
+Call Order In Log: 21
+
+local args = {
+ "requestReplicateToServerInteractable",
+ 22485,
+ "hackDoor"
+}
+game:GetService("ReplicatedStorage").endpoints.Interactables:FireServer(unpack(args))
+
+[23:05:14]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 22
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:14]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 23
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:15]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 24
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:15]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 25
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:15]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 26
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:15]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 27
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:16]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 28
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:16]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 29
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:17]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 30
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:17]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 31
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:18]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 32
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:18]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 33
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:19]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 34
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:45]
+Instance: Rebirth (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Rebirth
+Status: Allowed
+Call Order In Log: 35
+
+local args = {
+ "getStatus",
+ {}
+}
+game:GetService("ReplicatedStorage").endpoints.Rebirth:InvokeServer(unpack(args))
+
+[23:05:53]
+Instance: Leaderboards (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Leaderboards
+Status: Allowed
+Call Order In Log: 36
+
+local args = {
+ "requestLeaderboards",
+ {[1] = "STEALS", [2] = "CASH_PER_SEC"}
+}
+game:GetService("ReplicatedStorage").endpoints.Leaderboards:InvokeServer(unpack(args))
+
+[23:05:54]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 37
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:05:58]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 38
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:03]
+Instance: Rebirth (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Rebirth
+Status: Allowed
+Call Order In Log: 39
+
+local args = {
+ "getStatus",
+ {}
+}
+game:GetService("ReplicatedStorage").endpoints.Rebirth:InvokeServer(unpack(args))
+
+[23:06:05]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 40
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:06]
+Instance: Rebirth (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Rebirth
+Status: Allowed
+Call Order In Log: 41
+
+local args = {
+ "getStatus",
+ {}
+}
+game:GetService("ReplicatedStorage").endpoints.Rebirth:InvokeServer(unpack(args))
+
+[23:06:15]
+Instance: Conveyor (RemoteEvent)
+Path: game:GetService("ReplicatedStorage").endpoints.Conveyor
+Status: Allowed
+Call Order In Log: 42
+
+local args = {
+ "purchaseRequest",
+ {["itemId"] = 5155, ["beltId"] = 1}
+}
+game:GetService("ReplicatedStorage").endpoints.Conveyor:FireServer(unpack(args))
+
+[23:06:20]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 43
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:20]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 44
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:20]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 45
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:20]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 46
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:21]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 47
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:21]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 48
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:22]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 49
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:23]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 50
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:23]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 51
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:24]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 52
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:24]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 53
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:24]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 54
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:24]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 55
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:25]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 56
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:26]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 57
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:26]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 58
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:26]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 59
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:26]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 60
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:26]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 61
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:30]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 62
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:30]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 63
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:31]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 64
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:31]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 65
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:31]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 66
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:31]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 67
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:33]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 68
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:34]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 69
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
+
+[23:06:34]
+Instance: Gears (RemoteFunction)
+Path: game:GetService("ReplicatedStorage").endpoints.Gears
+Status: Allowed
+Call Order In Log: 70
+
+local args = {
+ "swing",
+ {["gearType"] = "SLAP", ["gearId"] = "GRAVITATIONAL_SLAP"}
+}
+game:GetService("ReplicatedStorage").endpoints.Gears:InvokeServer(unpack(args))
